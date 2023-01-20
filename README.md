@@ -26,5 +26,5 @@ This is a multithread Java application which will generate a word index of any c
 ![2](/assets/indexfile.PNG)
 
 ### ** UML Diagram**
-![3](/assets/umldiagram.PNG)
+![3](/assets/umldiagram.jpg)
 
