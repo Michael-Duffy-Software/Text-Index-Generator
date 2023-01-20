@@ -20,11 +20,11 @@ This is a multithread Java application which will generate a word index of any c
 - Eclipse
 
 ### ** Options Menu**
-![1](/assets/optionsmenu.png)
+![1](/assets/optionsmenu.PNG)
 
 ### ** Index File Genorated**
-![2](/assets/indexfile.png)
+![2](/assets/indexfile.PNG)
 
 ### ** UML Diagram**
-![3](/assets/umldiagram.png)
+![3](/assets/umldiagram.PNG)
 
