@@ -22,7 +22,7 @@ This is a multithread Java application which will generate a word index of any c
 ### ** Options Menu**
 ![1](/assets/optionsmenu.PNG)
 
-### ** Index File Genorated**
+### ** Index File Generated**
 ![2](/assets/indexfile.PNG)
 
 ### ** UML Diagram**
